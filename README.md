@@ -1,4 +1,4 @@
 dpg-mainz
 =========
 
-LaTeX source files for my DPG talk held in Mainz.
+LaTeX source files for my CMS talk template.
